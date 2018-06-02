@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Driver Distract Detect</string>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="send">SEND DATA</string>
+    <string name="read">Read</string>
+    <string name="app_intro">Description\n\tThis application will save your Life by locking your phone screen when it detects that you are manipulating it or will end your calls if you are not using earphones…</string>
+</resources>
